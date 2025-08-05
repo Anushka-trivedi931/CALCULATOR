@@ -9,7 +9,7 @@
 *INTERN ID*: CS25RY89314
 
 *DURATION*: 4 WEEKS
-# OUTPUT - https://github.com/Anushka-trivedi931/CALCULATOR/blob/main/projec-%20Calculator.py
+# https://anushka-trivedi931.github.io/CALCULATOR/
 
  
 
